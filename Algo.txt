@@ -5,4 +5,5 @@ Payment method
 Choose pickup or delivery
     If pickup, drive to shop
     If delivery, be ready to accept
+Tip
 Eat pizza
