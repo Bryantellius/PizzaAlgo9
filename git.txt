@@ -1,5 +1,9 @@
 git init 
 
+or
+
+git pull
+
 edit
 
 git add
