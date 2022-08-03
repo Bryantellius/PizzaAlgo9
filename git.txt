@@ -1,0 +1,10 @@
+git init 
+
+edit
+
+git add
+git commit
+
+git remote add
+
+git push [-u origin main]
